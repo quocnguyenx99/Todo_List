@@ -8,7 +8,6 @@
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
-* [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
@@ -16,8 +15,8 @@
 
 
 ## General Information
- - This is a small, simple and beautiful app， It can help you keep track of your daily plans. If you happen to have the habit of writing a mission plan, then it must be perfect for you.
- - The main purpose of this is as summary and practice my skills about Html, CSS, Javascrip and DOM 
+ - This is a small, simple and beautiful app. It can help you keep track of your daily plans. If you happen to have the habit of writing a mission plan, then it must be perfect for you.
+ - The main purpose of this is as summary and practice my skills about HTML, CSS, Javascrip and DOM.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
@@ -28,12 +27,12 @@
 
 
 ## Features
-- Filter task: All tasks, Active, Completed
-- Count task active
-- Clear all completed tasks
-- Check and add a line-through with the task completed
-- Delete task 
-- Modify and Update the content of the new task
+- Filter task: All tasks, Active, Completed.
+- Count task active.
+- Clear all completed tasks.
+- Check and add a line-through with the task completed.
+- Delete task.
+- Modify and Update the content of the new task.
 
 
 ## Screenshots
@@ -45,18 +44,14 @@
 Clone project from repository and use IDE such as VSCode, Sublime,...etc and run index.html file.
 
 
-## Project Status
-Project is: _complete_ 
-
-
 ## Room for Improvement
 To do:
-- Add Drag and drop for the task
-- Add more animations 
+- Add Drag and drop for the task.
+- Add more animations. 
 
 
 ## Acknowledgements
-- This project was inspired by Ayo aka Freshman
+- This project was inspired by TodoList on webpage of Ayo aka Freshman.
 - This project was based on [this tutorial](https://freshman.tech/todo-list/). Many thanks to Ayo for sharing and help me learn more about DOM.
 
 
