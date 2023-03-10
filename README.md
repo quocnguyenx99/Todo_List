@@ -8,7 +8,6 @@
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
-* [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
@@ -38,7 +37,7 @@
 
 
 ## Screenshots
-![Example screenshot](../img/Screenshot from 2023-03-10 20-28-46.png)
+![Example screenshot](https://github.com/quocnguyenx99/Todo_List/blob/master/image/Screenshot%20from%202023-03-10%2020-28-46.png?raw=true)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
@@ -58,8 +57,7 @@ To do:
 
 ## Acknowledgements
 - This project was inspired by Ayo aka Freshman
-- This project was based on [this tutorial](https://freshman.tech/todo-list/).
-- Many thanks to Ayo for sharing and help me learn more about DOM.
+- This project was based on [this tutorial](https://freshman.tech/todo-list/). Many thanks to Ayo for sharing and help me learn more about DOM.
 
 
 ## Contact
